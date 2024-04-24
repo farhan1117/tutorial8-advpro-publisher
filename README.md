@@ -22,3 +22,7 @@ Adpro C
 ## Screenshot RabbitMQ-Simulation slow subscriber
 
 ![Screenshot RabbitMQ-Simulation slow subscriber](assets/images/ss4.jpg)
+
+## Screenshot RabbitMQ-Reflection and Running at least three subscribers
+
+![Screenshot RabbitMQ-Simulation slow subscriber](assets/images/ss5.jpg)
